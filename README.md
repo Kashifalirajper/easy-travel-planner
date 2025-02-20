@@ -1,7 +1,7 @@
 # 🧳 Easy Travel Planner  
 **AI-powered trip planner for seamless travel experiences!** ✈️🏝️  
 
-![Easy Travel Planner](/homepage.png)
+![Easy Travel Planner](./public/homepage.png)
 
 ---
 
