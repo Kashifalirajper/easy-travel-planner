@@ -21,7 +21,6 @@ Easy Travel Planner is an **AI-powered travel planning tool** that generates **p
 ---
 
 ## 📸 Screenshots  
-![Easy Travel Planner](./public/homepage.png)
 ![Easy Travel Planner](./public/trip.png)
 
 ---
