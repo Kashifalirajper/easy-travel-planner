@@ -1,7 +1,7 @@
 # 🧳 Easy Travel Planner  
 **AI-powered trip planner for seamless travel experiences!** ✈️🏝️  
 
-![Easy Travel Planner](./public/homepage.png)
+![Easy Travel Planner](./public/showApp.png)
 
 ---
 
@@ -17,11 +17,6 @@ Easy Travel Planner is an **AI-powered travel planning tool** that generates **p
 - ✅ **Activity Suggestions** – Discover top attractions and experiences for your trip.  
 - ✅ **Budget & Traveler Preferences** – Customize your trip based on cost and group size.  
 - ✅ **Responsive & User-Friendly UI** – Works seamlessly across devices.  
-
----
-
-## 📸 Screenshots  
-![Easy Travel Planner](./public/trip.png)
 
 ---
 
