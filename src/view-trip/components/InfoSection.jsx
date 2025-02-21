@@ -24,7 +24,7 @@ function InfoSection({ trip }) {
     <div className="p-4 sm:p-6 lg:p-8">
       {/* Responsive Image */}
       <img 
-        src={photoUrl ? photoUrl : '/placeholder.png'} 
+        src={photoUrl ? photoUrl : '/placeholder.jpg'} 
         className="w-full h-auto max-h-[400px] object-cover rounded-xl"
         alt="Destination"
       />

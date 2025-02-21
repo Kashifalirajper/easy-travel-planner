@@ -22,7 +22,7 @@ Easy Travel Planner is an **AI-powered travel planning tool** that generates **p
 
 ## 🛠️ Tech Stack  
 - **Frontend:** React, Tailwind CSS  
-- **Backend:** Firebase, Node.js  
+- **Backend:** Firebase, Gemini API
 - **APIs Used:** Google Places API, AI-based Travel Data API  
 
 ---
@@ -44,8 +44,10 @@ npm install
 Create a `.env` file in the root directory and add:  
 ```env
 VITE_GOOGLE_PLACE_API_KEY=your-google-api-key
+VITE_GOOGLE_GEMINI_AI_API_KEY=your-gemini-api-key
+VITE_GOOGLE_AUTH_CLIENT_ID=your-auth-api-key
 ```
-*(Replace `your-google-api-key` with your actual Google Places API key.)*  
+*(Replace `api-keys` with your actual API keys.)*  
 
 ### 4️⃣ Start the App  
 ```sh
